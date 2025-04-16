@@ -1,5 +1,4 @@
 import telebot
-import time
 from telebot import types
 
 bot = telebot.TeleBot("7529857134:AAHCREPrVhia0XwqNdH41LLOIBispx6CAwY")
